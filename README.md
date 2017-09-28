@@ -1,10 +1,10 @@
 # MateriaAngularEsriBoilerplate
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.0 (Angular 4.x version).
 
-#Arcgis JS API
+## Arcgis JS API
 This project use angular2-esri-loader, angular-esri-loader and the latest Arcgis JS API 4.4 version.
 
-#Materia
+## Materia
 This boilerplate has been created to be used in a materia-designer application.
 Git clone this repository into your materia-designer application and modify your settings to use this repo as front-end.
 
